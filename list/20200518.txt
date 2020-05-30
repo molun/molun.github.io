@@ -1,4 +1,3 @@
-中央卫视,#genre#
 CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-1蓝光,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-1蓝光,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
@@ -57,7 +56,6 @@ CGTN-西语,http://live.cgtn.com/cctv-e.m3u8
 拉丁美洲CGTN,http://livees.cgtn.com/1000e/prog_index.m3u8
 美国CGTN (Opt-1),http://live.cgtn.com/500/prog_index.m3u8
 美国CGTN (Opt-2),http://live.cgtn.com/1000/prog_index.m3u8
-各省卫视,#genre#
 安多卫视,http://118.122.239.157:1235/hls/hd-live.m3u8
 安徽卫视,http://ivi.bupt.edu.cn/hls/ahtv.m3u8
 安徽卫视高清,http://ivi.bupt.edu.cn/hls/ahhd.m3u8
@@ -211,7 +209,6 @@ CGTN-西语,http://live.cgtn.com/cctv-e.m3u8
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中视综合,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-电影频道,#genre#
 动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 黑莓电影蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
@@ -304,7 +301,6 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 赌博电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
 成龙电影,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-爱系列,#genre#
 爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
 爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -336,7 +332,6 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱情喜剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
-教育频道,#genre#
 阜阳教育频道,http://live.zjmc.tv/1/sd/live.m3u8
 湖北教育,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 湖北教育,http://live.cjyun.org/video/s10008-jy2018/index.m3u8
@@ -364,7 +359,6 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 中国教育2台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 中国教育3台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
 中国教育4台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
-少儿频道,#genre#
 哈哈卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 嘉佳卡通,http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 嘉仕卡通,http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
@@ -414,7 +408,6 @@ FZTV少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 浙江少儿,http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
 浙江少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 重庆少儿,http://219.153.252.50/PLTV/88888888/224/3221225646/1.m3u8
-国外频道,#genre#
 美国360 North,http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 美国Bloomberg TV Europe,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 美国Bowie TV,http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
